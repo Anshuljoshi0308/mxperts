@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031885922470",
+    "project_id": "trialapp-c71dd",
+    "storage_bucket": "trialapp-c71dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031885922470:android:20d7f4d910adb974539467",
+        "android_client_info": {
+          "package_name": "com.example.mxperts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBYKQ9ab0kXc_9ounsEurw0sjmQ7KlYgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
